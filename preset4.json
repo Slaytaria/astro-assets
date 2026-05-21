@@ -1,0 +1,76 @@
+{
+  "deckColor": "#1a1a1a",
+  "griptapeColor": "#1a1a1a",
+  "truckColor": "#14B8A6",
+  "wheelColor": "#22C55E",
+  "deckDrawingOnTop": false,
+  "griptapeDrawingOnTop": true,
+  "deckLayers": [
+    {
+      "shapeId": "shape_skull",
+      "x": 0.52,
+      "y": 0.24562499999999998,
+      "rotation": -17,
+      "scale": 1.612,
+      "aspectRatio": 1,
+      "color": "#14B8A6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 11
+    },
+    {
+      "shapeId": "shape_skull",
+      "x": 0.5211111111111112,
+      "y": 0.45625,
+      "rotation": -13,
+      "scale": 0.8979999999999997,
+      "aspectRatio": 1,
+      "color": "#14B8A6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 11
+    },
+    {
+      "shapeId": "shape_skull",
+      "x": 0.47333333333333344,
+      "y": 0.5625,
+      "rotation": 28.5,
+      "scale": 0.48999999999999977,
+      "aspectRatio": 1,
+      "color": "#14B8A6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 11
+    },
+    {
+      "shapeId": "shape_gradient",
+      "x": 0.5111111111111111,
+      "y": 0.35375,
+      "rotation": 180.5,
+      "scale": 4.978000000000001,
+      "aspectRatio": 1,
+      "color": "#14B8A6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4
+    },
+    {
+      "shapeId": "text_shape",
+      "x": 0.5011111111111111,
+      "y": 0.6637500000000001,
+      "rotation": 0,
+      "scale": 0.6940000000000001,
+      "aspectRatio": 1,
+      "color": "#FFFFFF",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4,
+      "isText": true,
+      "text": "skullz",
+      "font": "Poppins",
+      "letterSpacing": 10,
+      "arch": 0
+    }
+  ],
+  "griptapeLayers": []
+}

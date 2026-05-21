@@ -1,0 +1,28 @@
+{
+  "deckColor": "#FFFFFF",
+  "griptapeColor": "#1a1a1a",
+  "truckColor": "#c0c0c0",
+  "wheelColor": "#f0f0f0",
+  "deckDrawingOnTop": true,
+  "griptapeDrawingOnTop": true,
+  "deckLayers": [],
+  "griptapeLayers": [
+    {
+      "shapeId": "text_shape",
+      "x": 0.4944444444444444,
+      "y": 0.499375,
+      "rotation": -90,
+      "scale": 1.4080000000000004,
+      "aspectRatio": 1,
+      "color": "#FFFFFF",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4,
+      "isText": true,
+      "text": "slaytaria",
+      "font": "Courier New",
+      "letterSpacing": 18,
+      "arch": 0
+    }
+  ]
+}
