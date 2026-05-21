@@ -1,0 +1,83 @@
+{
+  "deckColor": "#8B4513",
+  "griptapeColor": "#1a1a1a",
+  "truckColor": "#FFFFFF",
+  "wheelColor": "#d4c6af",
+  "deckDrawingOnTop": true,
+  "griptapeDrawingOnTop": true,
+  "deckLayers": [
+    {
+      "shapeId": "logo_wings",
+      "x": 0.4966666666666666,
+      "y": 0.584375,
+      "rotation": 0,
+      "scale": 2.326,
+      "aspectRatio": 1.5,
+      "color": "#D4A574",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4
+    },
+    {
+      "shapeId": "shape_gradient",
+      "x": 0.5022222222222222,
+      "y": 0.4375,
+      "rotation": 181,
+      "scale": 2.6319999999999997,
+      "aspectRatio": 4.1,
+      "color": "#8B5CF6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4
+    },
+    {
+      "shapeId": "shape_box",
+      "x": 0.5033333333333333,
+      "y": 0.185625,
+      "rotation": 1.5,
+      "scale": 2.836,
+      "aspectRatio": 1,
+      "color": "#8B5CF6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4
+    },
+    {
+      "shapeId": "shape_flame",
+      "x": 0.5011111111111112,
+      "y": 0.21874999999999997,
+      "rotation": 0,
+      "scale": 2.836,
+      "aspectRatio": 0.7,
+      "color": "#EC4899",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4
+    },
+    {
+      "shapeId": "shape_gradient",
+      "x": 0.5011111111111111,
+      "y": 0.258125,
+      "rotation": 1,
+      "scale": 2.020000000000001,
+      "aspectRatio": 1,
+      "color": "#8B5CF6",
+      "outlineEnabled": false,
+      "outlineColor": "#000000",
+      "outlineThickness": 4
+    },
+    {
+      "shapeId": "shape_skull",
+      "x": 0.4977777777777778,
+      "y": 0.4825,
+      "rotation": 0,
+      "scale": 1.4080000000000004,
+      "aspectRatio": 1,
+      "color": "#14edd5",
+      "outlineEnabled": true,
+      "outlineColor": "#065357",
+      "outlineThickness": 16
+    }
+  ],
+  "griptapeLayers": []
+}
